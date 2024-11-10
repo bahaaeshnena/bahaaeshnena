@@ -17,8 +17,8 @@
 - 📱 Aspiring **Android Developer** with a strong foundation in full-stack development
 - 🚀 Passionate about Tech Advancements in Android, global net zero, and space exploration
 - 💬 Ask me about **Android Development, Accessibility,** or **Tech**
-- 📫 Reach out through the links below!
 - 📝 For more details about my experience and skills, feel free to [my resume](https://your-link-to-resume.com).
+- 📫 Reach out through the links below!
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/bahaa-eshnena-b228a82a9" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-
+  <a href="https://x.com/BEshnena" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
