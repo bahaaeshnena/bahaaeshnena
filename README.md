@@ -34,6 +34,9 @@
 </div>
 
 ## My Skills
+<p align="center">
+  <img src="https://your-image-url.com/skills-image.png" alt="My Skills" width="500px">
+</p>
 
 ### Programming Languages
 <div align="left">
